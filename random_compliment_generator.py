@@ -4,6 +4,7 @@ import random
 # Random Compliment Generator
 # This program generates a random compliment from a predefined list of compliments.
 
+#select language
 # 1. User clicks the "Generate Compliment" button.
 # 2. A random compliment is generated picked from a list. Displayed with a robot having a speech bubble and heart emoji in it's eyes.
 # 3. The compliment is displayed in a new screen with graphical elements.
